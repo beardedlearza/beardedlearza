@@ -38,9 +38,11 @@ Linux enthusiast, homelab builder, and shell scripter. I break things so product
 
 ---
 
-## 📊 github stats
+## 📈 activity
 
-![beardedlearza's GitHub stats](https://github-readme-stats.vercel.app/api?username=beardedlearza&show_icons=true&theme=dark&hide_border=true)
+- 🔨 actively committing to **homelab-k8s**
+- ⭐ 13 repos starred
+- 🗓️ on GitHub since 2022
 
 ---
 
